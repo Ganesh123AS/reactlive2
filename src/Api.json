@@ -1,0 +1,290 @@
+[
+    {
+      "id": 1,
+      "title": "Hoodie 1",
+      "price": 109.95,
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "men's clothing",
+      "image": "/image/hoodie1.jpg",
+      "rating": {
+        "rate": 3.9,
+        "count": 120
+      }
+    },
+    {
+      "id": 2,
+      "title": "Hoodie 2",
+      "price": 109.95,
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "men's clothing",
+      "image": "/image/hoodie2.jpg",
+      "rating": {
+        "rate": 3.9,
+        "count": 120
+      }
+    },
+    {
+      "id": 3,
+      "title": "Hoodie 3",
+      "price": 109.95,
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "men's clothing",
+      "image": "/image/hoodie3.jpg",
+      "rating": {
+        "rate": 3.9,
+        "count": 120
+      }
+    },
+    {
+      "id": 4,
+      "title": "Hoodie 4",
+      "price": 109.95,
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "men's clothing",
+      "image": "/image/hoodie4.jpg",
+      "rating": {
+        "rate": 3.9,
+        "count": 120
+      }
+    },
+    {
+      "id": 5,
+      "title": "Hoodie 5",
+      "price": 109.95,
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "men's clothing",
+      "image": "/image/hoodie5.jpg",
+      "rating": {
+        "rate": 3.9,
+        "count": 120
+      }
+    },
+
+
+    {
+      "id": 6,
+      "title": "saree 1",
+      "price": 109.95,
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "women's clothing",
+      "image": "/image/saree1.jpg",
+      "rating": {
+        "rate": 3.9,
+        "count": 120
+      }
+    },
+    {
+      "id": 7,
+      "title": "saree 2",
+      "price": 109.95,
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "women's clothing",
+      "image": "/image/saree2.jpg",
+      "rating": {
+        "rate": 3.9,
+        "count": 120
+      }
+    },
+    {
+      "id": 8,
+      "title": "saree 3",
+      "price": 109.95,
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "women's clothing",
+      "image": "/image/saree3.jpg",
+      "rating": {
+        "rate": 3.9,
+        "count": 120
+      }
+    },
+    {
+      "id": 9,
+      "title": "saree 4",
+      "price": 109.95,
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "women's clothing",
+      "image": "/image/saree4.jpg",
+      "rating": {
+        "rate": 3.9,
+        "count": 120
+      }
+    },
+    {
+      "id": 10,
+      "title": "saree 5",
+      "price": 109.95,
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "women's clothing",
+      "image": "/image/saree5.jpg",
+      "rating": {
+        "rate": 3.9,
+        "count": 120
+      }
+    },
+
+
+    {
+        "id": 11,
+        "title": "dslr 1",
+        "price": 109.95,
+        "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+        "category": "electronics",
+        "image": "/image/dslr1.jpg",
+        "rating": {
+          "rate": 3.9,
+          "count": 120
+        }
+      },
+      {
+        "id": 12,
+        "title": "dslr 2",
+        "price": 109.95,
+        "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+        "category": "electronics",
+        "image": "/image/dslr2.jpg",
+        "rating": {
+          "rate": 3.9,
+          "count": 120
+        }
+      },
+      {
+        "id": 13,
+        "title": "dslr 3",
+        "price": 109.95,
+        "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+        "category": "electronics",
+        "image": "/image/dslr3.jpg",
+        "rating": {
+          "rate": 3.9,
+          "count": 120
+        }
+      },
+      {
+        "id": 14,
+        "title": "dslr 4",
+        "price": 109.95,
+        "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+        "category": "electronics",
+        "image": "/image/dslr4.jpg",
+        "rating": {
+          "rate": 3.9,
+          "count": 120
+        }
+      },
+
+
+
+      {
+        "id": 15,
+        "title": "mobile 1",
+        "price": 109.95,
+        "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+        "category": "electronics",
+        "image": "/image/mobile1.jpg",
+        "rating": {
+          "rate": 3.9,
+          "count": 120
+        }
+      },
+      {
+        "id": 16,
+        "title": "mobile 2",
+        "price": 109.95,
+        "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+        "category": "electronics",
+        "image": "/image/mobile2.jpg",
+        "rating": {
+          "rate": 3.9,
+          "count": 120
+        }
+      },
+      {
+        "id": 17,
+        "title": "mobile 3",
+        "price": 109.95,
+        "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+        "category": "electronics",
+        "image": "/image/mobile3.jpg",
+        "rating": {
+          "rate": 3.9,
+          "count": 120
+        }
+      },
+      {
+        "id": 18,
+        "title": "mobile 4",
+        "price": 109.95,
+        "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+        "category": "electronics",
+        "image": "/image/mobile4.jpg",
+        "rating": {
+          "rate": 3.9,
+          "count": 120
+        }
+      },
+      {
+        "id": 19,
+        "title": "mobile 5",
+        "price": 109.95,
+        "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+        "category": "electronics",
+        "image": "/image/mobile5.jpg",
+        "rating": {
+          "rate": 3.9,
+          "count": 120
+        }
+      },
+
+
+
+      {
+        "id": 20,
+        "title": "sandal 1",
+        "price": 109.95,
+        "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+        "category": "women's clothing",
+        "image": "/image/sandal1.jpg",
+        "rating": {
+          "rate": 3.9,
+          "count": 120
+        }
+      },
+      {
+        "id": 21,
+        "title": "sandal 2",
+        "price": 109.95,
+        "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+        "category": "women's clothing",
+        "image": "/image/sandal2.jpg",
+        "rating": {
+          "rate": 3.9,
+          "count": 120
+        }
+      },
+
+
+      {
+        "id": 22,
+        "title": "shoes 1",
+        "price": 109.95,
+        "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+        "category": "men's clothing",
+        "image": "/image/shoes1.jpg",
+        "rating": {
+          "rate": 3.9,
+          "count": 120
+        }
+      },
+      {
+        "id": 23,
+        "title": "shoes 2",
+        "price": 109.95,
+        "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+        "category": "men's clothing",
+        "image": "/image/shoes2.jpg",
+        "rating": {
+          "rate": 3.9,
+          "count": 120
+        }
+      }
+  ]
